@@ -4,5 +4,23 @@
   },
   "dependencies": {
     "parcel": "^1.12.4"
-  }
+  },
+  "name": "bangs-but-faster-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inclushe/bangs-but-faster-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inclushe/bangs-but-faster-website/issues"
+  },
+  "homepage": "https://github.com/Inclushe/bangs-but-faster-website#readme",
+  "description": ""
 }
