@@ -3,7 +3,7 @@
     "cssnano": "^4.1.10"
   },
   "dependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "name": "bangs-but-faster-website",
   "version": "1.0.0",
